@@ -1,5 +1,6 @@
 <?php
 class index
+
 {
     /**
      * @return array
